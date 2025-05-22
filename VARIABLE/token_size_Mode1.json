@@ -1,0 +1,10 @@
+{
+  "SIZE 1": {
+    "type": "number",
+    "value": 42
+  },
+  "SIZE 2": {
+    "type": "number",
+    "value": 8
+  }
+}
